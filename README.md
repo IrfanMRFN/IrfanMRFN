@@ -1,4 +1,13 @@
-### Hi there 👋
+# Halo semua! 
+ 
+Perkenalkan nama saya *Muhammad Irfan*.<br>
+ 
+Saya seorang *Mahasiswa* di Universitas Gunadarma.<br>
+
+### Github Statistic
+<p align="center">
+<a href="https://github.com/IrfanMRFN"/>
+</p>
 
 <!--
 **IrfanMRFN/IrfanMRFN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
